@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://purpleschool.ru",
     "email": "arturarzumanian@mail.com"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }
